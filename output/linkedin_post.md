@@ -1,35 +1,35 @@
 # LinkedIn launch pack
 
-## Post (copy-paste)
+## Post (copy-paste — plain text, no markdown)
 
-> I scraped 148,000 restaurant listings off Swiggy to answer one question: **where does a food business actually stand a chance?**
->
-> Three things surprised me.
->
-> **1. Half the country is served by seven cities.**
-> Bangalore alone holds 10.1% of all supply. The other 545 cities share the other half.
->
-> **2. 58.6% of listings have no rating at all.**
-> 87,014 outlets. Not bad restaurants — invisible ones. Swiggy withholds a star rating until you cross a review threshold, so the majority of the marketplace can't appear in ranked discovery.
->
-> **3. Delivery speed beats price.**
-> Outlets quoting under 40 minutes average 3.81★. Over 75 minutes: 3.44★.
-> Meanwhile price barely matters — ratings are flat from the cheapest decile to the ninth. Charging ₹400 instead of ₹200 buys you 0.16 stars.
->
-> Kolkata misses a 45-minute promise on **91%** of its outlets. Ahmedabad, on 45%. Same country, same promise.
->
-> So I built the whole thing end to end:
-> → **SQL**: SQLite star schema, 25 queries — window functions, CTEs, an HHI concentration index
-> → **Python**: pandas cleaning (ratings stored as "--", counts as "100+ ratings", a ₹300,350 meal for two), 10 charts
-> → **Excel**: every figure a live COUNTIFS/AVERAGEIFS formula over 148k rows, not a pasted value — recalculated in Excel and diffed against pandas, 10/10 match
->
-> No machine learning. No synthetic data. Just cleaning, querying, and finding the story.
->
-> Full repo (code + dashboard + 8-page report): [link in comments]
->
-> What would you analyse next — cuisine saturation, or delivery radius?
->
-> #DataAnalytics #SQL #Python #Excel #DataVisualization #BusinessAnalytics #Portfolio #OpenToWork
+I scraped 148,455 restaurant listings off Swiggy to answer one question: where does a food business actually stand a chance?
+
+Three things surprised me.
+
+1. Half the country is served by seven cities.
+Bangalore alone holds 10.1% of all supply. The other 545 cities share the rest.
+
+2. 58.6% of listings have no rating at all.
+87,014 outlets. Not bad restaurants — invisible ones. Swiggy withholds a star rating until an outlet crosses a review threshold, so most of the marketplace can't appear in ranked discovery.
+
+3. Delivery speed beats price.
+Outlets quoting under 40 minutes average 3.81 stars. Over 75 minutes: 3.44.
+Meanwhile price barely moves ratings — flat from the cheapest decile to the ninth. Charging ₹400 instead of ₹200 buys you 0.16 stars.
+
+Kolkata misses a 45-minute promise on 91% of its outlets. Ahmedabad, on 45%. Same country, same promise.
+
+So I built it end to end:
+→ SQL: SQLite star schema, 25 queries — window functions, CTEs, an HHI concentration index
+→ Python: pandas cleaning (ratings came in as "--", review counts as "100+ ratings", one ₹300,350 meal for two), 10 charts
+→ Excel: every figure a live COUNTIFS/AVERAGEIFS formula over 148k rows — recalculated in Excel and diffed against pandas, 10/10 match
+
+No machine learning. No synthetic data. Just cleaning, querying, and finding the story.
+
+Repo and 8-page report: link in the first comment.
+
+What would you analyse next — cuisine saturation, or delivery radius?
+
+#DataAnalytics #SQL #Python #Excel #BusinessAnalytics #Portfolio #OpenToWork
 
 ---
 
@@ -57,6 +57,8 @@
 ## First comment (post it yourself, immediately)
 
 > Repo with all the code, the SQL queries and the Excel dashboard: https://github.com/hrishitprakash2-debug/swiggy-market-intelligence
+
+> Direct links if you don't want to dig: 8-page report → https://github.com/hrishitprakash2-debug/swiggy-market-intelligence/blob/main/output/Swiggy_Market_Intelligence_Report.pdf
 >
 > Pipeline: raw scrape → cleaning with a documented quality log → SQLite star schema → 25 SQL queries → 10 charts → Excel dashboard (live formulas) → PDF report.
 >
