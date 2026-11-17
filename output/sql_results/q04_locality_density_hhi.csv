@@ -1,0 +1,26 @@
+locality_name,city_name,listings,cuisine_hhi,avg_cost_for_two,avg_rating,distinct_cuisines,pct_unrated
+Bikaner,Bikaner,1666,972.0,373.0,4.04,64,49.0
+Noida-1,Noida-1,1427,1339.0,303.0,3.87,54,61.8
+Indirapuram,Delhi,1279,1218.0,290.0,3.92,45,75.7
+Btm,Bangalore,1161,753.0,261.0,3.93,59,62.6
+Rohini,Delhi,1135,1194.0,279.0,3.83,38,72.9
+Kothrud,Pune,1089,864.0,295.0,4.08,50,70.8
+Indiranagar,Bangalore,1080,569.0,352.0,4.14,62,44.4
+Electronic City,Bangalore,1039,825.0,296.0,3.92,60,62.0
+Greater Kailash 2,Delhi,1038,939.0,357.0,3.99,52,60.1
+Vashi,Mumbai,1021,819.0,367.0,4.01,50,65.2
+Kukatpally,Hyderabad,1009,762.0,291.0,3.58,39,63.2
+Viman Nagar,Pune,1000,715.0,313.0,3.95,52,65.0
+Sohna Road,Gurgaon,976,1021.0,316.0,3.98,48,62.2
+Koramangala,Bangalore,954,585.0,322.0,4.08,56,49.4
+Laxmi Nagar,Delhi,933,1042.0,271.0,3.86,41,73.4
+Gomti Nagar,Lucknow,918,1135.0,273.0,3.88,43,72.3
+Malviya Nagar,Delhi,900,925.0,349.0,4.0,56,64.1
+Hsr,Bangalore,898,666.0,285.0,4.02,54,50.4
+Madhapur,Hyderabad,893,726.0,316.0,3.82,48,58.3
+Wakad,Pune,868,937.0,287.0,3.89,53,70.0
+Raj Nagar,Noida,850,1258.0,278.0,3.79,42,75.3
+Baner,Pune,813,820.0,319.0,4.0,52,61.5
+Bandra West,Mumbai,796,557.0,451.0,4.2,55,50.8
+Central Kolkata,Kolkata,790,754.0,427.0,4.19,43,58.1
+Aliganj,Lucknow,785,1078.0,240.0,3.65,35,71.1

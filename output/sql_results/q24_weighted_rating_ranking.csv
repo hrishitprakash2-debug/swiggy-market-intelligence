@@ -1,0 +1,21 @@
+weighted_rank,restaurant,city_name,locality_name,cuisine_name,rating,rating_count,weighted_rating,raw_rank,rank_shift_vs_raw
+1,SUNSHINE SHAKE,Rohtak,Rohtak,Beverages,4.9,500,4.668,9,8
+1,Kwality Walls Frozen Dessert and Ice Cream Shop,Ludhiana,Dugri,Ice Cream,4.9,500,4.668,9,8
+1,Kwality Walls Frozen Dessert and Ice Cream Shop,Delhi,Jasola,Ice Cream,4.9,500,4.668,9,8
+4,Kamdhenu's Sweets,Kolkata,Garia,Sweets,4.7,1000,4.595,124,120
+4,NIC Natural Ice Creams,Kolkata,Hatibagan,Ice Cream,4.7,1000,4.595,124,120
+4,NIC Natural Ice Creams,Kolkata,Behala,Ice Cream,4.7,1000,4.595,124,120
+4,NIC Natural Ice Creams,Kolkata,Lake Town,Ice Cream,4.7,1000,4.595,124,120
+4,Bombay Salad Co,Mumbai,Bandra West,Salads,4.7,1000,4.595,124,120
+4,NIC Natural Ice Creams,Bangalore,Whitefield,Ice Cream,4.7,1000,4.595,124,120
+4,New kalpana mistanna bhander,Kolkata,Jadavpur,Desserts,4.7,1000,4.595,124,120
+4,NIC Natural Ice Creams,Kolkata,Jadavpur,Ice Cream,4.7,1000,4.595,124,120
+4,Vijay Dairy,Chandigarh,Panchkula,Beverages,4.7,1000,4.595,124,120
+4,The Grand Sweets and Snacks - Amirtham Restaurant,Chennai,Adyar,Sweets,4.7,1000,4.595,124,120
+4,The Grand Sweets and Snacks - Amirtham Restaurant,Chennai,Omr Perungudi,Sweets,4.7,1000,4.595,124,120
+4,The Grand Sweets and Snacks - Amirtham Restaurant,Chennai,Mogappair,Sweets,4.7,1000,4.595,124,120
+4,Mithai,Kolkata,Central Kolkata,Desserts,4.7,1000,4.595,124,120
+4,Behrouz Biryani - Royal & Safe,Delhi,Laxmi Nagar,Biryani,4.7,1000,4.595,124,120
+4,Corner House Ice Cream,Bangalore,Frazer Town,Ice Cream,4.7,1000,4.595,124,120
+19,Natural Ice Cream,Kolkata,South Kolkata,Ice Cream,4.8,500,4.591,36,17
+19,Mithai,Kolkata,South Kolkata,Desserts,4.8,500,4.591,36,17

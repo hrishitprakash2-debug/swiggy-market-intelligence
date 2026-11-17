@@ -1,0 +1,21 @@
+city_name,locality_name,listings,listings_below_national_avg,avg_cost,cost_vs_benchmark,avg_rating,avg_reviews,pct_rated
+Chopda,Chopda,13,168.0,196.0,63.0,4.83,20.0,30.8
+Kadayanallur,Kadayanallur,12,169.0,200.0,59.0,4.53,20.0,33.3
+Kolkata,Kidderpore,27,154.0,246.0,13.0,4.34,58.0,37.0
+Kochi,Lulu Mall,11,170.0,332.0,-73.0,4.18,239.0,90.9
+South-Goa,South-Goa,14,167.0,443.0,-184.0,4.17,49.0,85.7
+Kolkata,Kankurgachi,27,154.0,367.0,-108.0,4.16,193.0,44.4
+Hyderabad,West Marredpally,28,153.0,259.0,0.0,4.14,281.0,78.6
+Vapi,Vapi,11,170.0,286.0,-27.0,4.11,127.0,81.8
+Uran-Islampur,Uran-Islampur,30,151.0,242.0,17.0,4.09,40.0,36.7
+Khamgaon,Khamgaon,24,157.0,292.0,-33.0,4.08,51.0,33.3
+Palanpur,Palanpur,21,160.0,197.0,62.0,4.03,20.0,33.3
+Gurgaon,New Cyber City,12,169.0,338.0,-79.0,4.0,81.0,58.3
+Kumarakom,Kumarakom,32,149.0,287.0,-28.0,4.0,51.0,43.8
+Gokak,Gokak,12,169.0,183.0,76.0,4.0,48.0,41.7
+Kottakkal,Kottakkal,19,162.0,257.0,2.0,3.99,41.0,63.2
+Gurgaon,New Dlf Phase 4,11,170.0,391.0,-132.0,3.98,145.0,54.5
+Bhatkal,Bhatkal,20,161.0,215.0,44.0,3.97,81.0,90.0
+Chakdaha,Chakdaha,28,153.0,241.0,18.0,3.97,42.0,35.7
+Narsinghpur,Narsinghpur,26,155.0,218.0,41.0,3.97,30.0,46.2
+Irinjalakuda,Irinjalakuda,24,157.0,236.0,23.0,3.96,52.0,83.3

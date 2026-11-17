@@ -1,0 +1,31 @@
+city_name,city_listings,city_avg_rating,cuisine_name,national_penetration_pct,city_outlets,city_penetration_pct,penetration_gap_pp
+Kochi,605,4.09,North Indian,21.9,59,9.8,-12.2
+Coimbatore,1275,3.97,North Indian,21.9,133,10.4,-11.5
+Vadodara,630,3.96,Chinese,24.6,82,13.0,-11.5
+Chennai,9954,4.03,North Indian,21.9,1173,11.8,-10.1
+Kochi,605,4.09,Chinese,24.6,90,14.9,-9.7
+Madurai,473,3.99,North Indian,21.9,58,12.3,-9.7
+Ahmedabad,3517,3.98,Chinese,24.6,531,15.1,-9.5
+Gondal,454,4.06,Biryani,9.8,8,1.8,-8.0
+Ludhiana,552,4.0,Biryani,9.8,10,1.8,-8.0
+Madurai,473,3.99,Indian,17.3,44,9.3,-8.0
+Surat,1328,4.02,Chinese,24.6,221,16.6,-7.9
+Kolkata,8281,4.06,North Indian,21.9,1174,14.2,-7.7
+Pondicherry,320,3.93,Chinese,24.6,54,16.9,-7.7
+Mumbai,6071,4.08,North Indian,21.9,895,14.7,-7.2
+Pondicherry,320,3.93,North Indian,21.9,47,14.7,-7.2
+Central-Goa,404,4.01,North Indian,21.9,60,14.9,-7.1
+Adityapur,356,3.9,North Indian,21.9,53,14.9,-7.0
+Surat,1328,4.02,Biryani,9.8,39,2.9,-6.8
+Pondicherry,320,3.93,Indian,17.3,34,10.6,-6.7
+Coimbatore,1275,3.97,Chinese,24.6,231,18.1,-6.4
+Ahmedabad,3517,3.98,Biryani,9.8,130,3.7,-6.1
+Aurangabad,430,3.9,Chinese,24.6,80,18.6,-6.0
+Kochi,605,4.09,Snacks,11.6,34,5.6,-6.0
+Ludhiana,552,4.0,South Indian,8.1,12,2.2,-5.9
+Adityapur,356,3.9,Fast Food,9.4,13,3.7,-5.7
+Vadodara,630,3.96,Biryani,9.8,27,4.3,-5.5
+Gondal,454,4.06,Indian,17.3,54,11.9,-5.4
+Delhi,14076,3.95,South Indian,8.1,391,2.8,-5.3
+Guwahati,787,3.96,South Indian,8.1,23,2.9,-5.2
+Ludhiana,552,4.0,Chinese,24.6,108,19.6,-5.0

@@ -1,0 +1,96 @@
+{
+  "source": "Swiggy public restaurant listings (scraped)",
+  "tables": {
+    "restaurants": {
+      "rows_in": 148541,
+      "rows_out": 148455,
+      "drops": {
+        "missing_restaurant_name": 86,
+        "duplicate_listing_id": 0,
+        "unparseable_geography": 0
+      },
+      "source_column_profile": {
+        "distinct_rating_labels": [
+          "--",
+          "1.0",
+          "1.1",
+          "1.2",
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9",
+          "2.0"
+        ],
+        "distinct_rating_count_labels": [
+          "100+ ratings",
+          "10K+ ratings",
+          "1K+ ratings",
+          "20+ ratings",
+          "50+ ratings",
+          "500+ ratings",
+          "5K+ ratings",
+          "Too Few Ratings",
+          "nan"
+        ],
+        "distinct_cost_labels": [
+          "nan",
+          "\u20b9 1",
+          "\u20b9 10",
+          "\u20b9 100",
+          "\u20b9 1000",
+          "\u20b9 1001",
+          "\u20b9 101",
+          "\u20b9 102"
+        ]
+      },
+      "control_characters_stripped": 110,
+      "null_rate_pct": {
+        "cost_for_two": 0.29,
+        "rating": 58.61,
+        "rating_count": 58.61,
+        "primary_cuisine": 0.0
+      },
+      "distinct": {
+        "cities": 552,
+        "localities": 820,
+        "cuisines": 114
+      },
+      "implausible_cost_nulled": 389,
+      "cost_out_of_range_after_cleaning": 0
+    },
+    "metro_sla": {
+      "rows_in": 8680,
+      "rows_out": 8668,
+      "drops": {
+        "zero_or_missing_price": 5,
+        "duplicate_restaurant_area": 7,
+        "delivery_time_outside_5_180": 0
+      },
+      "median_delivery_min": 53.0,
+      "p90_delivery_min": 74.0,
+      "cities": [
+        "Ahmedabad",
+        "Bangalore",
+        "Chennai",
+        "Delhi",
+        "Hyderabad",
+        "Kolkata",
+        "Mumbai",
+        "Pune",
+        "Surat"
+      ]
+    }
+  },
+  "integrity_checks": {
+    "national_row_count_matches": true,
+    "no_negative_cost": true,
+    "rating_within_0_5": true,
+    "rating_count_non_negative": true,
+    "listing_ids_unique": true,
+    "sla_ids_unique": true
+  },
+  "integrity_passed": true
+}

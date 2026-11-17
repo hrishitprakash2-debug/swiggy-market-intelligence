@@ -1,0 +1,18 @@
+# raw scrape (re-download with scripts/00_download_data.py)
+data/raw/*.csv
+data/raw/*.zip
+
+# SQLite warehouse is rebuilt by scripts/02_build_db.py
+data/swiggy.db
+
+# preview scratch
+output/dash_p*.png
+output/rp*.png
+output/dashboard_preview.pdf
+output/crop_*.png
+output/slide*.png
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

@@ -1,0 +1,5 @@
+confidence_label,confidence_order,listings,pct_of_supply,avg_rating,avg_reviews,avg_cost_for_two,pct_at_or_above_4_2
+No rating yet,1,87014,58.6,,,278.0,0.0
+Low (<50),2,21636,14.6,3.757,20.0,287.0,25.2
+Moderate (50-199),3,32557,21.9,3.953,82.0,303.0,31.6
+High (200+),4,7248,4.9,4.043,769.0,307.0,37.6

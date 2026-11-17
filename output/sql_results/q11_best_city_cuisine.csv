@@ -1,0 +1,93 @@
+city_name,rnk,cuisine_name,listings,avg_rating,avg_reviews
+Adityapur,1,Indian,40,3.88,200.0
+Agra,1,North Indian,53,3.694,91.0
+Ahmedabad,1,Ice Cream,49,4.394,70.0
+Ahmedabad,2,Desserts,63,4.083,68.0
+Ahmedabad,3,Beverages,79,4.066,48.0
+Allahabad,1,North Indian,43,3.777,111.0
+Allahabad,2,Indian,42,3.531,129.0
+Amritsar,1,North Indian,73,3.755,232.0
+Aurangabad,1,North Indian,47,3.932,257.0
+Bangalore,1,Ice Cream,279,4.373,105.0
+Bangalore,2,Healthy Food,94,4.281,177.0
+Bangalore,2,Sweets,95,4.281,167.0
+Bareilly,1,North Indian,46,3.717,151.0
+Bhopal,1,North Indian,63,3.683,222.0
+Bhubaneswar,1,Indian,62,3.805,360.0
+Bikaner,1,Indian,49,4.08,122.0
+Bikaner,2,Chinese,105,4.043,125.0
+Bikaner,3,North Indian,227,4.015,144.0
+Central-Goa,1,Indian,47,3.951,111.0
+Chandigarh,1,Beverages,66,3.98,76.0
+Chandigarh,2,Biryani,43,3.96,149.0
+Chandigarh,3,Bakery,49,3.927,134.0
+Chennai,1,Sweets,73,4.396,277.0
+Chennai,2,Healthy Food,57,4.332,125.0
+Chennai,3,Ice Cream,192,4.291,83.0
+Coimbatore,1,South Indian,120,3.991,278.0
+Coimbatore,2,North Indian,50,3.9,152.0
+Coimbatore,3,Indian,62,3.889,206.0
+Dehradun,1,North Indian,83,3.631,161.0
+Delhi,1,Ice Cream,181,4.314,80.0
+Delhi,2,Healthy Food,83,4.207,105.0
+Delhi,3,Desserts,158,4.153,104.0
+Faridabad,1,North Indian,54,3.631,160.0
+Gorakhpur,1,North Indian,48,3.535,152.0
+Gurgaon,1,Bakery,45,4.064,125.0
+Gurgaon,2,Chinese,64,3.855,92.0
+Gurgaon,3,North Indian,212,3.843,123.0
+Guwahati,1,Chinese,52,3.963,198.0
+Guwahati,2,North Indian,47,3.917,184.0
+Guwahati,3,Indian,54,3.835,89.0
+Hyderabad,1,Sweets,138,4.214,316.0
+Hyderabad,2,Healthy Food,79,4.1,193.0
+Hyderabad,3,Ice Cream,186,4.094,185.0
+Indore,1,North Indian,120,3.757,384.0
+Indore,2,Indian,64,3.661,75.0
+Indore,3,Chinese,42,3.652,92.0
+Jodhpur,1,North Indian,58,3.66,103.0
+Kanpur,1,North Indian,65,3.663,150.0
+Kochi,1,South Indian,65,4.094,270.0
+Kolkata,1,Ice Cream,97,4.481,157.0
+Kolkata,2,Sweets,81,4.267,172.0
+Kolkata,3,Desserts,170,4.249,119.0
+Lucknow,1,Chinese,72,3.762,102.0
+Lucknow,2,Bakery,51,3.761,135.0
+Lucknow,3,Mughlai,49,3.757,587.0
+Madurai,1,South Indian,47,4.126,194.0
+Madurai,2,Biryani,57,3.872,197.0
+Meerut,1,North Indian,55,3.565,115.0
+Mumbai,1,Ice Cream,104,4.392,66.0
+Mumbai,2,Bakery,93,4.304,83.0
+Mumbai,3,Desserts,169,4.299,76.0
+Mysore,1,South Indian,55,4.005,256.0
+Mysore,2,North Indian,42,3.983,178.0
+Mysore,3,Chinese,57,3.951,183.0
+Nagpur,1,North Indian,106,3.824,128.0
+Nagpur,2,Indian,58,3.7,56.0
+Noida,1,North Indian,65,3.757,119.0
+Noida-1,1,Indian,54,3.898,90.0
+Noida-1,2,North Indian,150,3.861,133.0
+Noida-1,3,Chinese,68,3.835,89.0
+North-Goa,1,Indian,55,3.96,76.0
+Patna,1,Chinese,64,3.584,158.0
+Patna,2,Indian,81,3.499,275.0
+Patna,3,North Indian,44,3.443,117.0
+Pondicherry,1,South Indian,41,4.051,212.0
+Pune,1,Ice Cream,135,4.361,89.0
+Pune,2,Sweets,48,4.275,143.0
+Pune,3,Healthy Food,64,4.236,140.0
+Ranchi,1,Indian,51,3.627,87.0
+Surat,1,Desserts,50,4.188,83.0
+Surat,2,North Indian,94,4.026,182.0
+Surat,3,Fast Food,42,3.969,137.0
+Udaipur,1,North Indian,98,3.754,153.0
+Vadodara,1,North Indian,51,3.757,139.0
+Varanasi,1,North Indian,67,3.639,307.0
+Varanasi,2,Indian,44,3.489,136.0
+Vijayawada,1,Beverages,44,3.93,83.0
+Vijayawada,2,South Indian,68,3.816,162.0
+Vijayawada,3,North Indian,44,3.693,185.0
+Vizag,1,South Indian,45,3.911,511.0
+Vizag,2,Beverages,48,3.908,75.0
+Vizag,3,Chinese,55,3.698,154.0

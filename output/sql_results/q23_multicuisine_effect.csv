@@ -1,0 +1,26 @@
+cuisine_a,cuisine_b,outlets,avg_rating,avg_cost_for_two,pct_rated_4_plus,rating_vs_national
+Chinese,North Indian,8759,3.775,316.0,16.2,-0.119
+Chinese,Indian,6682,3.772,308.0,14.7,-0.122
+Biryani,North Indian,3102,3.744,316.0,15.4,-0.15
+Bakery,Desserts,2986,4.052,306.0,35.5,0.157
+Indian,North Indian,2953,3.824,288.0,12.5,-0.07
+Desserts,Ice Cream,2592,4.322,226.0,54.5,0.428
+North Indian,South Indian,2509,3.9,283.0,35.9,0.006
+Fast Food,Snacks,2372,3.979,238.0,16.2,0.085
+Biryani,Chinese,2207,3.669,280.0,10.6,-0.225
+Chinese,Snacks,2126,3.793,248.0,6.6,-0.101
+Biryani,Indian,2040,3.651,292.0,10.6,-0.243
+Beverages,Snacks,1829,4.004,245.0,18.9,0.11
+Chinese,Fast Food,1828,3.774,247.0,8.5,-0.12
+Chinese,South Indian,1817,3.866,253.0,24.8,-0.029
+Beverages,Desserts,1534,4.085,242.0,42.0,0.19
+Italian,Pizzas,1495,3.827,361.0,22.8,-0.067
+North Indian,Snacks,1466,3.819,261.0,12.4,-0.075
+Fast Food,Pizzas,1462,3.683,257.0,6.0,-0.212
+Beverages,Fast Food,1335,3.929,242.0,10.7,0.034
+North Indian,Punjabi,1308,3.934,285.0,41.6,0.039
+Indian,Snacks,1285,3.883,242.0,11.0,-0.011
+Mughlai,North Indian,1084,3.856,390.0,28.0,-0.039
+Indian,South Indian,973,3.909,261.0,22.8,0.015
+Beverages,Ice Cream,957,4.072,236.0,33.4,0.177
+Biryani,South Indian,900,3.736,268.0,20.3,-0.158

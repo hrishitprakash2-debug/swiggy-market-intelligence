@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+openpyxl>=3.1
+reportlab>=4.0
+pypdfium2>=4.0
+pywin32>=306        # Windows only: Excel COM recalculation (scripts/06)

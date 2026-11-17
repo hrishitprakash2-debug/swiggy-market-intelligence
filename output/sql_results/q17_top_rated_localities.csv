@@ -1,0 +1,27 @@
+city_name,locality_name,rnk,restaurant,rating,rating_count,cost_for_two
+Bikaner,Bikaner,1,Theobroma,4.6,500,800.0
+Bikaner,Bikaner,2,NIC Natural Ice Creams,4.5,500,120.0
+Bikaner,Bikaner,3,Cake Maker,4.4,1000,199.0
+Bikaner,Bikaner,3,California Burrito,4.4,1000,250.0
+Bangalore,Btm,1,O4H - Order For Health,4.5,500,400.0
+Bangalore,Btm,2,Kalpavruksha,4.4,1000,150.0
+Bangalore,Btm,3,A2B Veg,4.3,1000,300.0
+Delhi,Indirapuram,1,NIC Natural Ice Creams,4.6,500,120.0
+Delhi,Indirapuram,2,SashMicks Bakery (Cake),4.4,1000,300.0
+Delhi,Indirapuram,3,The Chinese Hut,4.2,500,400.0
+Delhi,Indirapuram,3,Chaayos Chai+Snacks=Relax,4.2,500,250.0
+Delhi,Indirapuram,3,Burger Singh (Big Punjabi Burgers),4.2,500,300.0
+Delhi,Indirapuram,3,The Bowl Company,4.2,500,300.0
+Delhi,Indirapuram,3,Tiffin Story,4.2,500,200.0
+Delhi,Indirapuram,3,Chilli Vada Pav,4.2,500,200.0
+Pune,Kothrud,1,NIC Natural Ice Creams,4.6,500,120.0
+Pune,Kothrud,1,Mithas,4.6,500,400.0
+Pune,Kothrud,3,Sheetal Restaurant,4.5,1000,400.0
+Noida-1,Noida-1,1,NIC Natural Ice Creams,4.5,1000,120.0
+Noida-1,Noida-1,2,Salad Days,4.5,500,500.0
+Noida-1,Noida-1,3,Theobroma,4.3,1000,800.0
+Noida-1,Noida-1,3,Hindi Ram Rasoi,4.3,1000,150.0
+Delhi,Rohini,1,NIC Natural Ice Creams,4.4,500,120.0
+Delhi,Rohini,1,Shree Gopal Ji ke  chhole Bhature,4.4,500,200.0
+Delhi,Rohini,3,Secular House Canteen,4.3,500,350.0
+Delhi,Rohini,3,McDonald's,4.3,500,400.0
