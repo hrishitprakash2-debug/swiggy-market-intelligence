@@ -11,6 +11,10 @@ An end-to-end analytics project on **148,455 real Swiggy restaurant listings** a
   <img alt="tests" src="https://img.shields.io/badge/reconciliation-PASS-3FA66A">
 </p>
 
+![Swiggy Market Intelligence dashboard](docs/dashboard_preview.png)
+
+*The Excel deliverable — 6 KPI cards, 4 native charts and live-formula insight sentences, over all 148,455 rows.*
+
 ---
 
 ## The questions
@@ -35,6 +39,15 @@ A marketplace operator has three decisions: **where to open**, **what to charge*
 | 6 | **Kolkata misses a 45-minute promise on 91% of outlets** (median quote 69 min); Ahmedabad on 45%. | 91.4% vs 44.7% |
 | 7 | **Price stops buying satisfaction after the cheap end.** Ratings are flat from the cheapest decile to the ninth; only the top two deciles clear 3.95★. | plateau |
 | 8 | **No city is dominated by one cuisine.** Cuisine HHI stays under 1,500 in every major market — competition is fragmented and price-led. | HHI < 1,500 |
+
+![Supply concentration](charts/01_supply_pareto.png)
+*Seven cities hold just over half of India's supply.*
+
+![Supply vs satisfaction](charts/03_cuisine_supply_vs_rating.png)
+*The biggest cuisines are the least loved — and the small ones sit above the average line.*
+
+![Delivery time vs rating](charts/06_delivery_vs_rating.png)
+*Every extra 15 minutes of quoted delivery costs roughly 0.1 stars.*
 
 **Full narrative:** [`output/Swiggy_Market_Intelligence_Report.pdf`](output/Swiggy_Market_Intelligence_Report.pdf) (8 pages)
 
@@ -139,6 +152,7 @@ python scripts/08_carousel.py        # 8-slide LinkedIn carousel
 | `output/sql_results/*.csv` | Result of every query, exported |
 | `output/sql_findings.md` | Index of all 25 queries with previews |
 | `output/Swiggy_Carousel.pdf` | 8-slide carousel for LinkedIn |
+| `docs/dashboard_preview.png` | dashboard rendered for inline preview |
 | `charts/*.png` | 10 charts, 1600×900, carousel-ready |
 
 ## Limitations
