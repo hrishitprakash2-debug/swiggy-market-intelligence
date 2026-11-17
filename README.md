@@ -113,7 +113,7 @@ Formulas are recalculated in real Excel (`06_recalc_excel.py`) so the cached val
 ## Reproduce it
 
 ```bash
-git clone https://github.com/hrishitprakash/swiggy-market-intelligence.git
+git clone https://github.com/hrishitprakash2-debug/swiggy-market-intelligence.git
 cd swiggy-market-intelligence
 pip install -r requirements.txt
 
@@ -154,4 +154,4 @@ python scripts/08_carousel.py        # 8-slide LinkedIn carousel
 
 ---
 
-**Hrishit Prakash** — [LinkedIn](https://linkedin.com/in/hrishit-prakash-7666a5328) · [GitHub](https://github.com/hrishitprakash) · hrishit4280@gmail.com
+**Hrishit Prakash** — [LinkedIn](https://linkedin.com/in/hrishit-prakash-7666a5328) · [GitHub](https://github.com/hrishitprakash2-debug) · hrishit4280@gmail.com

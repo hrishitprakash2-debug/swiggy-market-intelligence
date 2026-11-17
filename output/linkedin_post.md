@@ -56,7 +56,7 @@
 
 ## First comment (post it yourself, immediately)
 
-> Repo with all the code, the SQL queries and the Excel dashboard: https://github.com/hrishitprakash/swiggy-market-intelligence
+> Repo with all the code, the SQL queries and the Excel dashboard: https://github.com/hrishitprakash2-debug/swiggy-market-intelligence
 >
 > Pipeline: raw scrape → cleaning with a documented quality log → SQLite star schema → 25 SQL queries → 10 charts → Excel dashboard (live formulas) → PDF report.
 >

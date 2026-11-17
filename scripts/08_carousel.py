@@ -59,7 +59,7 @@ def slide(story, headline, lead, chart=None, proof=None, challenge=False):
     if proof:
         story.append(Paragraph(proof, PROOF))
     story.append(Spacer(1, 6))
-    story.append(Paragraph("Hrishit Prakash  ·  github.com/hrishitprakash", FOOT))
+    story.append(Paragraph("Hrishit Prakash  ·  github.com/hrishitprakash2-debug", FOOT))
     seen.append(1)
     story.append(PageBreak())
 
@@ -168,7 +168,7 @@ for line in ["SQLite star schema · 25 analytical queries (window functions, CTE
     story.append(Paragraph(f"•  {line}", ParagraphStyle("b", fontName=F, size=24, leading=38,
                                                         textColor=INK)))
 story.append(Spacer(1, 24))
-story.append(Paragraph("Repo and dashboard: github.com/hrishitprakash", PROOF))
+story.append(Paragraph("Repo and dashboard: github.com/hrishitprakash2-debug", PROOF))
 story.append(Spacer(1, 10))
 story.append(Paragraph("Data: 148,455 live Swiggy listings + 8,668 metro outlets with delivery times",
                        FOOT))

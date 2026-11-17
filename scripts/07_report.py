@@ -157,7 +157,7 @@ story.append(Spacer(1, 10 * mm))
 story.append(Paragraph(
     "Built with SQL (SQLite star schema, 25 analytical queries), Python "
     "(pandas, matplotlib, seaborn) and Excel (live formulas, native charts). "
-    "Full pipeline and queries: github.com/hrishitprakash", S["caption"]))
+    "Full pipeline and queries: github.com/hrishitprakash2-debug", S["caption"]))
 story.append(PageBreak())
 
 # ------------------------------------------------------- executive summary
@@ -371,7 +371,7 @@ story.append(Paragraph(
     "Swiggy's suppression rules.", S["body"]))
 story.append(Paragraph(
     "<b>Reproduce this:</b> sql/schema.sql, all 25 queries in sql/queries/, the numbered pipeline in scripts/ "
-    "and the Excel workbook with every figure as a live formula — github.com/hrishitprakash", S["caption"]))
+    "and the Excel workbook with every figure as a live formula — github.com/hrishitprakash2-debug", S["caption"]))
 
 doc.build(story)
 print(f"saved {OUT} ({OUT.stat().st_size/1e6:.1f} MB)")
