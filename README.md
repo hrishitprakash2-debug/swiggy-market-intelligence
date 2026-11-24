@@ -168,4 +168,4 @@ python scripts/08_carousel.py        # 8-slide LinkedIn carousel
 
 ---
 
-**Hrishit Prakash** — [LinkedIn](https://linkedin.com/in/hrishit-prakash-7666a5328) · [GitHub](https://github.com/hrishitprakash2-debug) · hrishit4280@gmail.com
+**Hrishit Prakash** — [LinkedIn](https://linkedin.com/in/hrishit-prakash-7666a5328) · [GitHub](https://github.com/hrishitprakash2-debug) · hrishitprakash2@gmail.com
